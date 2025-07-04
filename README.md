@@ -24,5 +24,5 @@ Built with a modern tech stack, it serves as both a resume and a live demo of my
 - **Styling**: Tailwind CSS
 - **Deployment**: GitHub Pages
 
-# All Rights Reserved
+**All Rights Reserved**
 
