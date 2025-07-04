@@ -1,6 +1,6 @@
 # 💼 Portfolio Website
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a developer/designer/creative professional. 
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a tech enthusiast. 
 Built with a modern tech stack, it serves as both a resume and a live demo of my capabilities.
 
 ## 🌐 Live Demo
@@ -24,5 +24,5 @@ Built with a modern tech stack, it serves as both a resume and a live demo of my
 - **Styling**: Tailwind CSS
 - **Deployment**: GitHub Pages
 
-## All Rights Reserved
+# All Rights Reserved
 
