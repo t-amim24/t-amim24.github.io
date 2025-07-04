@@ -10,7 +10,7 @@ Built with a modern tech stack, it serves as both a resume and a live demo of my
 
 ## 📸 Preview
 
-##![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](screenshot.png)
 
 ## 🚀 Features
 
